@@ -16,7 +16,6 @@ gem "bootsnap", require: false
 
 
 group :development, :test do
-      gem 'sqlite3'
 
   gem "debug", platforms: %i[ mri mingw x64_mingw ]
 end
